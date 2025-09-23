@@ -1,6 +1,6 @@
 # adaptTo() Website - X-Walk Experimental
 
-[![Build](https://github.com/adaptto/adaptto-website-xwalk/workflows/Build/badge.svg?branch=main)](https://github.com/adaptto/adaptto-website-xwalk/actions?query=workflow%3ABuild+branch%3Amain)
+[![Build](https://github.com/adaptto/adaptto-website-xwalk/actions/workflows/build.yaml/badge.svg?branch=main)](https://github.com/adaptto/adaptto-website-xwalk/actions?query=workflow%3ABuild+branch%3Amain)
 
 adaptTo() Website based on Edge Delivery Services (AEM Franklin) - Experimental Version with X-Walk Support (authoring in AEMaaCS Author).
 
