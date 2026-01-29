@@ -1,15 +1,15 @@
 {
   "mappings": [
-    "/content/westpactrial/:/",
-    "/content/westpactrial/metadata:/metadata.json",
-    "/content/westpactrial/query-index:/query-index.json",
-    "/content/westpactrial/redirects:/redirects.json",
-    "/content/westpactrial/_helix/config:/.helix/config.json",
-    "/content/westpactrial/_helix/headers:/.helix/headers.json",
-    "/content/westpactrial/2023/schedule-data:/2023/schedule-data.json",
-    "/content/westpactrial/2024/schedule-data:/2023/schedule-data.json"
+    "/content/2026/05/bravefox35118/:/",
+    "/content/2026/05/bravefox35118/metadata:/metadata.json",
+    "/content/2026/05/bravefox35118/query-index:/query-index.json",
+    "/content/2026/05/bravefox35118/redirects:/redirects.json",
+    "/content/2026/05/bravefox35118/configuration:/.helix/config.json",
+    "/content/2026/05/bravefox35118/_helix/headers:/.helix/headers.json",
+    "/content/2026/05/bravefox35118/2023/schedule-data:/2023/schedule-data.json",
+    "/content/2026/05/bravefox35118/2024/schedule-data:/2023/schedule-data.json"
   ],
   "includes": [
-    "/content/westpactrial/"
+     "/content/2026/05/bravefox35118/"
   ]
 }
